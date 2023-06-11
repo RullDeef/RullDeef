@@ -1,6 +1,6 @@
 ## About me
 
-BMSTU student, ICS7, bachelor (2019-2023). C++ lover.
+BMSTU student, ICS7, bachelor (2019-2023).
 
 <div>
   <td><img src="https://github-readme-stats.vercel.app/api?username=RullDeef&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" width="435px" /></td>
